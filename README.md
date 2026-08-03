@@ -1,26 +1,103 @@
 <p align="center">
-  <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/762eb8b6-aa59-4e21-ad15-ad7611ec7e7a" />
+  <img width="100%" src="https://github.com/user-attachments/assets/762eb8b6-aa59-4e21-ad15-ad7611ec7e7a" alt="Banner"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Python+Developer;React+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Neeraj;Full+Stack+Developer;Cybersecurity+Enthusiast;Python+Developer;React+Developer" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer
+- 🔐 Cybersecurity Enthusiast
+- 🐍 Python & Django Developer
+- ⚛️ React & TypeScript Developer
+- ☁️ Learning Cloud & DevOps
+- 🚀 Passionate about building scalable web applications
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,react,typescript,javascript,fastapi,docker,linux,git,github,mysql,postgres,vscode,figma,aws"/>
 </p>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeraj181-dot&show_icons=true&theme=tokyonight"/>
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj181-dot&layout=compact&theme=tokyonight"/>
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=neeraj181-dot&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neeraj181-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj181-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=neeraj181-dot&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj181-dot&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/neeraj181-dot/neeraj181-dot/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **DeployHub** | Deploy frontend and backend applications easily. |
+| **Rentify** | Modern rental marketplace built with Django. |
+| **InterviewAI** | AI-powered interview preparation platform. |
+| **NodeBeacon** | Node.js utility project. |
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
