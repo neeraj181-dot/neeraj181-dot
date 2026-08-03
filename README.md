@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 💻 Full Stack Developer
 - 🔐 Cybersecurity Enthusiast
@@ -33,7 +33,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,react,typescript,javascript,fastapi,docker,linux,git,github,mysql,postgres,vscode,figma,aws"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=neeraj181-dot&theme=tokyonight&hide_border=true"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj181-dot&theme=tokyo-night&hide_border=true"/>
@@ -63,7 +63,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/neeraj181-dot/neeraj181-dot/output/github-contribution-grid-snake.svg"/>
@@ -71,7 +71,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -82,7 +82,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
 
