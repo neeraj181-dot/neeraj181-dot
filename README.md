@@ -41,14 +41,8 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=neeraj181-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj181-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://komarev.com/ghpvc/?username=neeraj181-dot&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
