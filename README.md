@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/762eb8b6-aa59-4e21-ad15-ad7611ec7e7a" alt="Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 
 <p align="center">
