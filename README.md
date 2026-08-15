@@ -46,7 +46,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neeraj181-dot&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=neeraj181-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
